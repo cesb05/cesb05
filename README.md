@@ -14,7 +14,7 @@
 ## <picture><img src = "https://github.com/cesb05/cesb05/blob/main/dev.gif?raw=true" width = 70px></picture> About me
 
 <br>
-"I'm a full-stack development enthusiast in .NET and a curious computer security student. I'm excited about discovering new tools and techniques that improve both user experience and system security. Always seeking challenges that keep me learning and growing in this exciting world of technology."
+I'm a full-stack development enthusiast in .NET and a curious computer security student. I'm excited about discovering new tools and techniques that improve both user experience and system security. Always seeking challenges that keep me learning and growing in this exciting world of technology.
 <br>
 
 ## Currently Working On
