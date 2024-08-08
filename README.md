@@ -14,7 +14,7 @@
 ## <picture><img src = "https://github.com/cesb05/cesb05/blob/main/dev.gif?raw=true" width = 70px></picture> About me
 
 <br>
-I'm a full-stack development enthusiast in .NET and a curious computer security student. I'm excited about discovering new tools and techniques that improve both user experience and system security. Always seeking challenges that keep me learning and growing in this exciting world of technology.
+I am a web developer currently working as a .NET developer. I enjoy applying my knowledge while working in a team to create efficient and secure systems, as I have experience in computer security, one of the areas of computing that I am most passionate about.
 <br>
 
 ## Currently Working On
@@ -38,19 +38,19 @@ I'm a full-stack development enthusiast in .NET and a curious computer security 
 ### Programming languages
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=cs,js,ts,py,php"/>
+  <img src="https://skillicons.dev/icons?i=cs,js,ts,py"/>
 </a>
 
 ### Frontend Development
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,sass,less,tailwind"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,sass,tailwind"/>
 </a>
 
 ### Frameworks
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=dotnet,bootstrap,flask,django,angular,laravel"/>
+  <img src="https://skillicons.dev/icons?i=dotnet,bootstrap,flask,django,angular"/>
 </a>
 
 ### Tools
@@ -62,7 +62,7 @@ I'm a full-stack development enthusiast in .NET and a curious computer security 
 ### IDEs
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,sublime,rider,pycharm,atom,vim"/>
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,sublime,rider,pycharm,vim"/>
 </a>
 
 ### Operating Systems
@@ -75,7 +75,7 @@ I'm a full-stack development enthusiast in .NET and a curious computer security 
 
 ---
 
-<p align="center">
+<!--<p align="center">
   <img src="https://komarev.com/ghpvc/?username=cesb05&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> 
 </p>
 
