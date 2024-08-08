@@ -75,7 +75,7 @@ I am a web developer currently working as a .NET developer. I enjoy applying my 
 
 ---
 
-<!--<p align="center">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=cesb05&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> 
 </p>
 
