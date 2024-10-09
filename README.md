@@ -4,7 +4,6 @@
 	<a href="mailto:cesar.sb.dev@outlook.com"><img img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://www.linkedin.com/in/cesar-st/"><img src="https://img.shields.io/badge/Linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 	<a href="https://www.instagram.com/cesar_soto35/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
-	<a href="https://x.com/CesarStoB?s=09"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=plastic&logo=twitter&logoColor=white" alt="X"/></a>
 </p>
 
 <p align="center">
@@ -56,13 +55,13 @@ I am a web developer currently working as a .NET developer. I enjoy applying my 
 ### Tools
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=figma,git,github,npm,notion,obsidian,latex,postman"/>
+  <img src="https://skillicons.dev/icons?i=figma,git,github,notion,obsidian,latex,postman"/>
 </a>
 
 ### IDEs
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,sublime,rider,pycharm,vim"/>
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,sublime,pycharm,vim"/>
 </a>
 
 ### Operating Systems
@@ -74,10 +73,6 @@ I am a web developer currently working as a .NET developer. I enjoy applying my 
 <br>
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=cesb05&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> 
-</p>
 
 <!--## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
 
